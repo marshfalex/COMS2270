@@ -1,2 +1,2 @@
 # COMS2270
-Object-oriented Programming
+Object-oriented Programming Course
